@@ -2,6 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyatanu&label=Profile%20views&color=0e75b6&style=flat" alt="heyatanu" /> </p> -->
+<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/image-e2363.appspot.com/o/Images%2F8302426-undraw_image_viewer_re_7ejc.svg?alt=media&token=d6033062-5a49-4b0f-b3d4-c20ef84732e5">
 
 - 🔭 I’m currently working on **Chrome Extension**
 
