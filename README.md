@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **atanud662@gmail.com**
 
-- 📄 Check out my resume <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> SHOW RESUME </a>
+- 📄 Check out my resume <a href="https://heyatanu.github.io/me/Atanu's%20Resume.pdf" target="_blank" rel="noreferrer"> SHOW RESUME </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
